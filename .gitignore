@@ -9,3 +9,6 @@ htmlcov/
 trajectory.json
 dist/
 .DS_Store
+/validate.py
+/validation_report*.json
+/validation_report*.log
